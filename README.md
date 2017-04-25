@@ -10,7 +10,7 @@ sReader App Write In React-Native（Studying and Programing）
 >Based on："react-native": "0.42.0","react-navigation": "^1.0.0-beta.7",
 
 
-####项目结构:
+#### 项目结构:
 
     |--sReader
         |--asset 资源
